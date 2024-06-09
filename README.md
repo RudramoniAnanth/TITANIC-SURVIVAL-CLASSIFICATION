@@ -1,0 +1,2 @@
+# TITANIC-SURVIVAL-CLASSIFICATION
+This repository consists of the TITANIC SURVIVAL CLASSIFICATION Using ml algorithm
